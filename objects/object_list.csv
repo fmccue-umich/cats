@@ -1,0 +1,6 @@
+filename,object_location,image_small,image_thumb
+nc_001.jpg,/objects/nc_001.jpg,/objects/small/nc_001_sm.jpg,/objects/thumbs/nc_001_th.jpg
+nc_002.jpg,/objects/nc_002.jpg,/objects/small/nc_002_sm.jpg,/objects/thumbs/nc_002_th.jpg
+nc_003.jpg,/objects/nc_003.jpg,/objects/small/nc_003_sm.jpg,/objects/thumbs/nc_003_th.jpg
+nc_004.jpg,/objects/nc_004.jpg,/objects/small/nc_004_sm.jpg,/objects/thumbs/nc_004_th.jpg
+nc_005.jpg,/objects/nc_005.jpg,/objects/small/nc_005_sm.jpg,/objects/thumbs/nc_005_th.jpg
