@@ -20,8 +20,8 @@ padding: 6em
 
 ## About the Collection
 
-This collection features items from the Library of Congress's [Free to Use and Reuse Set](https://www.loc.gov/free-to-use/cats/) and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features items from the Library of Congress [Free to Use and Reuse Set](https://www.loc.gov/free-to-use/cats/) and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-Metadata was pulled from the Library of Congress's "Cats" collection. Images and metadata are both available on this site and the original Library of Congress website.
+Metadata is pulled from the Library of Congress's "Cats" collection and follows the Dublin Core standard. Images and metadata are available both on this site and the original Library of Congress website.
 
-This project is part of a project for UMSI's SI 676: Managing Digital Collections.
+This project is for UMSI's course titled SI 676: Managing Digital Collections.
